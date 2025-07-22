@@ -3,7 +3,7 @@ import http from "http";
 import cors from "cors";
 import { Server } from "socket.io";
 
-const PORT = 5050;
+const PORT = process.env.PORT || 5050;
 const app = express();
 
 const allowedOrigins = [
