@@ -48,7 +48,7 @@ const StudentPage = () => {
   };
 
   const { socket, isConnected } = useSocket({
-    endpoint: `http://localhost:5050`,
+    endpoint: `https://real-time-poll-system.onrender.com`,
     token: id,
   });
 

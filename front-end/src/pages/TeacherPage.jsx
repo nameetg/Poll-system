@@ -51,7 +51,7 @@ export default function TeacherPage() {
   };
 
   const { socket, isConnected } = useSocket({
-    endpoint: "http://localhost:5050",
+    endpoint: "https://real-time-poll-system.onrender.com",
     token: id,
   });
 
@@ -383,6 +383,7 @@ export default function TeacherPage() {
                       <div key={i} className="mb-1">
                         <span className="font-semibold mr-1">
                           {msg.user || "Anon"}:
+                          {/* Teacher */}
                         </span>
                         {msg.text}
                       </div>
