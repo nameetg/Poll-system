@@ -1,14 +1,14 @@
-📊 Real-Time Polling System
-A full-stack real-time polling application built with React, Socket.IO, Redux, and Node.js. Teachers can create live polls, and students can vote in real-time.
+<b>📊 Real-Time Polling System</b><br>
+A full-stack real-time polling application built with React, Socket.IO, Redux, and Node.js. Teachers can create live polls, and students can vote in real-time.<br><br>
 
-Live Demo
-https://poll-system-neon.vercel.app/
+<b>Live Demo</b><br>
+https://poll-system-neon.vercel.app/<br><br>
 
-Tech Stack
-Frontend: React, Redux, Tailwind CSS, ShadCN UI
-Backend: Node.js, Express, Socket.IO
-Real-Time Communication: WebSockets via Socket.IO
-Deployment: Vercel (Frontend), Render (Backend)
+<b>Tech Stack</b><br>
+<b>Frontend:</b> React, Redux, Tailwind CSS, ShadCN UI<br>
+<b>Backend:</b> Node.js, Express, Socket.IO<br>
+<b>Real-Time Communication:</b> WebSockets via Socket.IO<br>
+<b>Deployment:</b> Vercel (Frontend), Render (Backend)<br><br>
 
 <img width="1837" height="854" alt="image" src="https://github.com/user-attachments/assets/42835360-1f65-449e-96a1-73f38b583065" />
 
