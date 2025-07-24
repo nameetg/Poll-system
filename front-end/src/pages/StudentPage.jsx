@@ -202,9 +202,9 @@ const StudentPage = () => {
 
       <div className="flex gap-8">
         {/* Poll Panel */}
-        <div className="flex-[2]">
+        <div className="flex-1">
           {poll ? (
-            <Card className="w-3/4 border-violet-200 shadow-sm">
+            <Card className="w-full border-violet-200 shadow-sm">
               <CardContent className="space-y-4 p-6">
                 <h2 className="text-lg font-semibold text-violet-800">
                   {poll.question}
@@ -286,7 +286,7 @@ const StudentPage = () => {
 
         {/* Chat & Participants Panel */}
         {/* <div className="flex-1 "> */}
-        <div className="flex-[1]">
+        <div className="flex-1">
           <Card className="h-full">
             <CardContent className="h-full flex flex-col p-4">
               <Tabs defaultValue="chat" className="flex flex-col flex-1">
