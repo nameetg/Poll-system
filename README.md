@@ -18,7 +18,7 @@ https://poll-system-neon.vercel.app/<br><br>
 
 <img width="1891" height="801" alt="image" src="https://github.com/user-attachments/assets/b4593562-d0ac-4bbb-87da-e7522084c5e6" />
 
-<img width="1903" height="853" alt="image" src="https://github.com/user-attachments/assets/7ccfd3dd-b3be-4d2b-af4a-54e481e9c576" />
+<img width="1902" height="881" alt="image" src="https://github.com/user-attachments/assets/bf471b73-38e8-48c6-a913-93f40294954b" />
 
 <img width="1873" height="793" alt="image" src="https://github.com/user-attachments/assets/90c33524-842e-4fa9-831e-be4da9acb7e1" />
 
